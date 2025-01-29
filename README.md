@@ -1,1 +1,3 @@
-# SI_T5_P1
+Un keylogger es un tipo de software o un dispositivo hardware específico que se encarga de registrar las pulsaciones que se realizan en el teclado, para posteriormente memorizarlas en un fichero o enviarlas a través de internet.
+
+En este código vemos uns función que registra un evento, que en este caso es pulsar una tecla, y lo almacena en un archivo txt. Las últimas líneas son para poder salir del keylogger dándole al "esc".
